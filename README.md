@@ -21,4 +21,4 @@ dotenv
 note: if you refer this folder please install "dotenv" library and create a .env file in your main folder, then add a port variable
 
 //port = 8081
-then ryn npm run dev to start this backend app
+then run npm run dev to start this backend app
